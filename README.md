@@ -33,6 +33,11 @@ You will also need the [LLFF code](http://github.com/fyusion/llff) (and COLMAP) 
   
 </details>
 
+### Notes by Rui
+``` bash
+conda activate nerf-py38
+```
+
 ## How To Run?
 
 ### Quick Start
